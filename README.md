@@ -3,6 +3,8 @@ ultima4
 
 code for exploring Ultima IV data files
 
+The output of `world_map.py` is available at https://raw.github.com/jtauber/ultima4/master/world.png (also included in repo)
+
 
 png.py
 ------
