@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from png import write_png
 
 from shapes import load_shapes
