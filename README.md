@@ -5,6 +5,7 @@ code for exploring Ultima IV data files
 
 The output of `world_map.py` is available at https://raw.github.com/jtauber/ultima4/master/world.png (also included in repo)
 
+If you get Ultima IV for OS X from GOG.com, the relevant files are in `Ultima 4.app/Contents/Resources/Ultima IV- Quest of the Avatar.boxer/C.harddisk` which you can symlink `ULT` to for the scripts here to work.
 
 png.py
 ------
