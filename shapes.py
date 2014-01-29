@@ -20,7 +20,7 @@ EGA2RGB = [
 
 def load_shapes():
     shapes = []
-    bytes = open("EGA/SHAPES.EGA").read()
+    bytes = open("ULT/SHAPES.EGA").read()
 
     for i in range(256):
         shape = []

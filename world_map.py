@@ -6,7 +6,7 @@ from shapes import load_shapes
 SHAPES = load_shapes()
 
 
-world = open("WORLD.MAP").read()
+world = open("ULT/WORLD.MAP").read()
 pixels = []
 for chunk_row in range(8):
     for row in range(32):
