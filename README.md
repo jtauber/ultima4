@@ -8,11 +8,11 @@ If you get Ultima IV for OS X from GOG.com, the relevant files are in `Ultima 4.
 
 ## files types
 
-* .CON: combat? (not supported yet)
-* .DNG: dungeons (not supported yet)
-* .EGA: graphics files, some are supported but not all yet
-* .TLK: talk data
-* .ULT: town (and castle) data including map(s) but not talk data
+* `.CON`: combat? (not supported yet)
+* `.DNG`: dungeons (not supported yet)
+* `.EGA`: graphics files, some are supported but not all yet
+* `.TLK`: talk data
+* `.ULT`: town (and castle) data including map(s) but not talk data
 
 ## files in this repository
 
