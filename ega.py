@@ -24,7 +24,7 @@ EGA2RGB = [
 def rle(filename_in, filename_out, w, h):
     pixels = []
     bytes = open(filename_in).read()
-    
+
     state = 0
     for d in map(ord, bytes):
         if state == 0:
@@ -43,7 +43,7 @@ def rle(filename_in, filename_out, w, h):
                 pixels.append(EGA2RGB[a])
                 pixels.append(EGA2RGB[b])
             state = 0
-    
+
     write_png(filename_out, w, h, pixels)
 
 
